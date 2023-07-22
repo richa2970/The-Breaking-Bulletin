@@ -1,4 +1,4 @@
-#NEWS Monkey 
+#NEWS- The Breaking Bulletin
 
 <img width="700" alt="Pattern-1" src="Screenshot/Screenshot 2023-07-22 at 8.50.59 PM.png">
 

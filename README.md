@@ -1,10 +1,10 @@
 #NEWS- The Breaking Bulletin
 
-<img width="700" alt="Pattern-1" src="Screenshot/Screenshot 2023-07-22 at 8.50.59 PM.png">
+<img width="700" alt="Pattern-1" src="screenshot/Screenshot 2023-08-20 at 9.33.15 PM.png">
 
-<img width="700" alt="Pattern-1" src="Screenshot/Screenshot 2023-07-22 at 8.51.11 PM.png">
+<img width="700" alt="Pattern-1" src="screenshot/Screenshot 2023-08-20 at 9.33.28 PM.png">
 
-<img width="700" alt="Pattern-1" src="Screenshot/Screenshot 2023-07-22 at 8.52.02 PM.png">
+<img width="700" alt="Pattern-1" src="screenshot/Screenshot 2023-08-20 at 9.34.52 PM.png">
 
 
 
